@@ -414,7 +414,7 @@ function Navbar({ current, setCurrent, dark, setDark, t }) {
             background:t.shimmer, backgroundSize:"300% auto",
             WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent",
             animation:"shimmer 5s linear infinite", letterSpacing:3,
-          }}>NAD</span>
+          }}>NADi</span>
           <span style={{ fontFamily:"'Outfit',sans-serif", fontSize:7, fontWeight:300, letterSpacing:5, color:t.textMut, textTransform:"uppercase" }}>ACCESSOIRE</span>
         </div>
 
@@ -541,7 +541,7 @@ function HomePage({ setCurrent, dark, t }) {
           background:t.shimmer, backgroundSize:"300% auto",
           WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent",
           animation:"shimmer 5s linear infinite, fadeUp .6s .1s both",
-        }}>NAD</h1>
+        }}>NADi</h1>
         <p className="hero-sub" style={{ fontFamily:"'Outfit',sans-serif", fontWeight:300, textTransform:"uppercase", color:t.textMut, marginBottom:6, animation:"fadeUp .6s .15s both" }}>ACCESSOIRE</p>
         <p className="hero-tag" style={{ fontFamily:"'Cormorant Garamond',serif", fontStyle:"italic", color:t.textSub, marginBottom:48, maxWidth:500, animation:"fadeUp .6s .25s both" }}>L'art du détail, l'excellence du goût</p>
         <div className="hero-btns" style={{ animation:"fadeUp .6s .35s both" }}>
@@ -1110,7 +1110,7 @@ function Footer({ setCurrent, t }) {
         <div className="footer-grid" style={{ marginBottom:40 }}>
           <div>
             <div style={{ marginBottom:14 }}>
-              <span style={{ fontFamily:"'Cormorant Garamond',serif", fontSize:26, fontWeight:700, background:t.shimmer, backgroundSize:"300% auto", WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", animation:"shimmer 5s linear infinite", letterSpacing:3 }}>NADi</span>
+              <span style={{ fontFamily:"'Cormorant Garamond',serif", fontSize:26, fontWeight:700, background:t.shimmer, backgroundSize:"300% auto", WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", animation:"shimmer 5s linear infinite", letterSpacing:3 }}>NAD</span>
               <span style={{ fontFamily:"'Outfit',sans-serif", fontSize:7, fontWeight:300, letterSpacing:5, color:t.textMut, textTransform:"uppercase", display:"block", marginTop:2 }}>ACCESSOIRE</span>
             </div>
             <p style={{ fontFamily:"'Outfit',sans-serif", fontSize:12, color:t.textMut, lineHeight:1.7, maxWidth:220 }}>
