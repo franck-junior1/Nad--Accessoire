@@ -1110,7 +1110,7 @@ function Footer({ setCurrent, t }) {
         <div className="footer-grid" style={{ marginBottom:40 }}>
           <div>
             <div style={{ marginBottom:14 }}>
-              <span style={{ fontFamily:"'Cormorant Garamond',serif", fontSize:26, fontWeight:700, background:t.shimmer, backgroundSize:"300% auto", WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", animation:"shimmer 5s linear infinite", letterSpacing:3 }}>NAD</span>
+              <span style={{ fontFamily:"'Cormorant Garamond',serif", fontSize:26, fontWeight:700, background:t.shimmer, backgroundSize:"300% auto", WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", animation:"shimmer 5s linear infinite", letterSpacing:3 }}>NADi</span>
               <span style={{ fontFamily:"'Outfit',sans-serif", fontSize:7, fontWeight:300, letterSpacing:5, color:t.textMut, textTransform:"uppercase", display:"block", marginTop:2 }}>ACCESSOIRE</span>
             </div>
             <p style={{ fontFamily:"'Outfit',sans-serif", fontSize:12, color:t.textMut, lineHeight:1.7, maxWidth:220 }}>
